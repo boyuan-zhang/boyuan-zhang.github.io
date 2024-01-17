@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 <!-- subtitle: Postdoctoral Scientist at Amazon <a href='https://www.amazon.jobs/en/teams/scot'>SCOT</a>. -->
 
