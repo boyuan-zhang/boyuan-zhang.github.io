@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:Postdoctoral Scientist at Amazon, <a href='https://www.amazon.jobs/en/internal/teams/scot'>Amazon.com</a>.
 
 profile:
   align: right
