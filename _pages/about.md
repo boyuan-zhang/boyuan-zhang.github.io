@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Scientist at Amazon, <a href='https://economics.sas.upenn.edu/'>University of Pennsylvania</a>.
+subtitle: Postdoctoral Scientist at Amazon <a href='https://www.amazon.jobs/en/teams/scot'>SCOT</a>.
 
 profile:
   align: right
