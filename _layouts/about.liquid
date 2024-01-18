@@ -2,12 +2,8 @@
 layout: default
 ---
 <div class="post">
-  <head>
-    {% if page.redirect %}
-      <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/">
-    {% endif %}
-    {% include head.liquid %}
-  </head>
+  <!-- Header -->
+  {% include header.liquid %}
   
   <article>
     {% if page.profile %}
