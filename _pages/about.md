@@ -24,7 +24,7 @@ My research interests include econometrics, machine learning, applied macroecono
 
 My research focuses on grouped heterogeneity in panel data models. I’m particularly interested in bringing prior knowledge of the latent group structure into the models. It is an exciting topic that blends panel estimation with semi-supervised learning and social network models. [(Extended abstract)]({{ site.url }}/assets/pdf/CBG_latest_ext_abs.pdf)
 
-For more infomation, please see my <a href="{{ site.cv_link | relative_url }}">CV</a> and an [overview]({{ site.url }}/assets/statement/research_statement.pdf) of my research.
+For more infomation, please see my [CV]({{ site.url }}/cv.pdf) and an [overview]({{ site.url }}/assets/statement/research_statement.pdf) of my research.
 
 <!-- For more infomation, please see my <a href="{{ site.cv_link | relative_url }}">CV</a> and an [overview]({{ site.url }}/assets/statement/research_statement.pdf) of my research. -->
 
