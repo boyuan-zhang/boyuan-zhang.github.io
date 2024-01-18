@@ -16,6 +16,6 @@ nav_order: 2
 <br>
 
 <h2>Working Papers</h2>
-{% bibliography -f working_papers -q @*[working=true]* %}
+
 
 </div>
