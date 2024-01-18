@@ -18,13 +18,13 @@ nav_order: 3
 
 <br>
 
-<h2>Working Papers</h2>
+<!-- <h2>Working Papers</h2>
 {% bibliography -f working_papers -q @*[working=true]* %}
 
 <br>
 
 <h2>Work in Progress</h2>
-{% bibliography -f work_in_progress -q @*[workinprogress=true]* %}
+{% bibliography -f work_in_progress -q @*[workinprogress=true]* %} -->
 
 </div>
 
