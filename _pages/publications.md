@@ -13,4 +13,9 @@ nav_order: 2
 <h2>Publications</h2>
 {% bibliography %}
 
+<br>
+
+<h2>Working Papers</h2>
+{% bibliography -f working_papers -q @*[working=true]* %}
+
 </div>
