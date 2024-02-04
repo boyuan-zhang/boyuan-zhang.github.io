@@ -9,4 +9,6 @@ toc:
   sidebar: left
 ---
 
-<object data="/cv.pdf" width="1000" height="1000" type='application/pdf'></object>
+<div style="text-align: center;"> <!-- Center align the PDF -->
+  <object data="/cv.pdf" width="1000" height="1000" type='application/pdf'></object>
+</div>
