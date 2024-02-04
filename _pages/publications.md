@@ -11,12 +11,12 @@ nav_order: 2
 <div class="publications">
 
 <h2>Publications</h2>
-{% bibliography -q @*[published=yes]%}
+{% bibliography %}
 
 <br>
 
 <h2>Working Papers</h2>
-{% bibliography -q @*[working=true]%}
+{% bibliography -file working_papers %}
 
 <br>
 
