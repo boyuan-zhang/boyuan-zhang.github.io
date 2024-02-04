@@ -20,4 +20,9 @@ nav_order: 2
 
 <br>
 
+<h2>Work in Progress</h2>
+{% bibliography -f work_in_progress %}
+
+<br>
+
 </div>
