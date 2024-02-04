@@ -16,7 +16,7 @@ nav_order: 2
 <br>
 
 <h2>Working Papers</h2>
-{% bibliography %}
+{% bibliography -file working_papers %}
 
 <br>
 
