@@ -15,10 +15,10 @@ nav_order: 2
 
 <br>
 
-<h2>Working Papers</h2>
+<!-- <h2>Working Papers</h2>
 {% bibliography -file working_papers %}
 
-<br>
+<br> -->
 
 
 </div>
