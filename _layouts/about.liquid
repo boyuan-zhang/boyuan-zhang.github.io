@@ -6,6 +6,9 @@ layout: default
 </div>
 <div class="post">  
   <article>
+	{% if page.name_display %}
+	  <div class="sidebar-name">Boyuan Zhang</div>
+	{% endif %}
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
