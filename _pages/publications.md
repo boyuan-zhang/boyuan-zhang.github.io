@@ -15,4 +15,9 @@ nav_order: 2
 
 <br>
 
+<h2>Working Papers</h2>
+{% bibliography %}
+
+<br>
+
 </div>
