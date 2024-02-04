@@ -18,3 +18,10 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "font-awesome/regular"
 ;
+
+.pdf-container {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically, adjust height accordingly */
+  height: 100vh; /* Example height, adjust as needed */
+}
