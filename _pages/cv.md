@@ -10,5 +10,5 @@ toc:
 ---
 
 <div class="pdf-center"> <!-- Use a class for styling -->
-  <object data="/cv.pdf" width="1000" height="1000" type='application/pdf'></object>
+  <object data="/cv.pdf" width="1500" height="1000" type='application/pdf'></object>
 </div>
