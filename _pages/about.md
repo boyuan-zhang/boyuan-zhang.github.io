@@ -16,7 +16,7 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Welcome!
+Welcome! 欢迎!
 
 I am currently a postdoctoral scientist at Amazon - <a href="https://www.amazon.jobs/en/teams/scot">SCOT</a> team. I received my Ph.D. degree from the University of Pennsylvania under supervision of Prof. <a href="https://www.sas.upenn.edu/~fdiebold/">Francis X. Diebold</a> and Prof. <a href="https://web.sas.upenn.edu/schorf/">Frank Schorfheide</a>.
 
