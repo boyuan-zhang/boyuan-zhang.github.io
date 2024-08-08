@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 ---
 Welcome!
 
-I am currently a postdoctoral scientist at Amazon - <a href="https://www.amazon.jobs/en/teams/scot">SCOT</a> team. I received my Ph.D. degree from the University of Pennsylvania under supervision of Prof. <a href="https://www.sas.upenn.edu/~fdiebold/">Francis X. Diebold</a> and Prof. <a href="https://web.sas.upenn.edu/schorf/">Frank Schorfheide</a>.
+I am currently an Economist at Amazon - <a href="https://www.amazon.jobs/en/teams/scot">SCOT</a> team, focusing on time series forecast. I received my Ph.D. degree from the University of Pennsylvania under supervision of Prof. <a href="https://www.sas.upenn.edu/~fdiebold/">Francis X. Diebold</a> and Prof. <a href="https://web.sas.upenn.edu/schorf/">Frank Schorfheide</a>.
 
 My research interests include econometrics, machine learning, applied macroeconomics, and climate econometrics. 
 
