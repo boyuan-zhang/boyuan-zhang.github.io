@@ -9,28 +9,6 @@ toc:
   sidebar: left
 ---
 
-<style>
-.pdf-container {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  margin: 20px 0;
-}
-
-.pdf-container object {
-  width: 90%;
-  height: 800px;
-  max-width: 1000px;
-}
-
-@media (max-width: 768px) {
-  .pdf-container object {
-    width: 100%;
-    height: 600px;
-  }
-}
-</style>
-
-<div class="pdf-container">
-  <object data="/cv.pdf" type="application/pdf"></object>
+<div class="pdf-center"> <!-- Use a class for styling -->
+  <object data="/cv.pdf" width="2000" height="1000" type='application/pdf'></object>
 </div>
