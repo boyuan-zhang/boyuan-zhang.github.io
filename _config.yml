@@ -4,7 +4,7 @@
 
 title: Boyuan Zhang # the website title (if blank, full name will be used instead)
 first_name: Boyuan
-middle_name: 
+middle_name:
 last_name: Zhang
 email: zhang.boyuan@hotmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -103,7 +103,6 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
