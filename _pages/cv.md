@@ -9,6 +9,8 @@ toc:
   sidebar: left
 ---
 
-<div class="pdf-center"> <!-- Use a class for styling -->
-  <object data="/cv.pdf" width="1500" height="1000" type='application/pdf'></object>
+<div class="row justify-content-center">
+  <div class="col-md-10">
+    <object data="/cv.pdf" width="100%" height="800px" type='application/pdf'></object>
+  </div>
 </div>
