@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Welcome!
 
-I am currently an Economist on the Supply Chain Optimization Technologies (<a href="https://www.amazon.jobs/en/teams/scot">SCOT</a>) team at Amazon.com, focusing on time series forecast. My research interests include time sereis econometrics, machine learning, applied macroeconomics, and climate econometrics.
+I am currently an Economist on the Supply Chain Optimization Technologies (<a href="https://www.amazon.jobs/en/teams/scot">SCOT</a>) team at Amazon.com, focusing on time series forecast. My research interests include time series econometrics, machine learning, applied macroeconomics, climate econometrics, and time-series foundation models.
 
 <!--I received my Ph.D. degree from the University of Pennsylvania under supervision of Prof. <a href="//www.sas.upenn.edu/~fdiebold/">Francis X. Diebold</a> and Prof. <a href="https://web.sas.upenn.edu/schorf/">Frank Schorfheide</a>. -->
 
