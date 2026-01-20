@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Welcome!
 
-I am an Economist on the Supply Chain Optimization Technologies (<a href="https://www.amazon.science/tag/supply-chain-optimization-technologies">SCOT</a>) team at Amazon, where I develop state-of-the-art forecasting models for Amazon's Global Fulfillment network and conduct causal inference studies to inform strategic business decisions. 
+I am an Economist on the Supply Chain Optimization Technologies (<a href="https://www.amazon.science/tag/supply-chain-optimization-technologies">SCOT</a>) team at Amazon, where I develop state-of-the-art forecasting models for Amazon's Global Fulfillment network and conduct causal inference studies to inform strategic business decisions.
 
 My research advances econometric methodology at the intersection of time series forecasting, machine learning, and foundation models, with applications spanning macroeconomic policy, climate science, and supply chain operations.
 
