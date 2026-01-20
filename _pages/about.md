@@ -18,13 +18,15 @@ social: true # includes social icons at the bottom of the page
 
 Welcome!
 
-I am currently an Economist on the Supply Chain Optimization Technologies (<a href="https://www.amazon.jobs/en/teams/scot">SCOT</a>) team at Amazon.com, focusing on time series forecast. My research interests include time series econometrics, machine learning, applied macroeconomics, climate econometrics, and time-series foundation models.
+I am an Economist on the Supply Chain Optimization Technologies (<a href="https://www.amazon.science/tag/supply-chain-optimization-technologies">SCOT</a>) team at Amazon, where I develop state-of-the-art forecasting models for Amazon's Global Core Fulfillment network and conduct causal inference studies to inform strategic business decisions. 
+
+My research advances econometric methodology at the intersection of time series forecasting, machine learning, and foundation models, with applications spanning macroeconomic policy, climate science, and supply chain operations.
 
 <!--I received my Ph.D. degree from the University of Pennsylvania under supervision of Prof. <a href="//www.sas.upenn.edu/~fdiebold/">Francis X. Diebold</a> and Prof. <a href="https://web.sas.upenn.edu/schorf/">Frank Schorfheide</a>. -->
 
 <!-- My research focuses on grouped heterogeneity in panel data models. I’m particularly interested in bringing prior knowledge of the latent group structure into the models. It is an exciting topic that blends panel estimation with semi-supervised learning and social network models. [(Extended abstract)]({{ site.url }}/assets/pdf/CBG_latest_ext_abs.pdf) -->
 
-For more infomation, please see my [CV]({{ site.url }}/cv.pdf) and an [overview]({{ site.url }}/assets/statement/research_statement.pdf) of my research.
+For more information, please see my [CV]({{ site.url }}/cv.pdf) and an [overview]({{ site.url }}/assets/statement/research_statement.pdf) of my research.
 
 <!-- For more infomation, please see my <a href="{{ site.cv_link | relative_url }}">CV</a> and an [overview]({{ site.url }}/assets/statement/research_statement.pdf) of my research. -->
 
