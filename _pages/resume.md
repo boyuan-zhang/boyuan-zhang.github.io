@@ -10,5 +10,5 @@ toc:
 ---
 
 <div class="pdf-center">
-  <object data="/resume.pdf" width="2000" height="1000" type='application/pdf'></object>
+  <object data="/resume.pdf" type='application/pdf'></object>
 </div>

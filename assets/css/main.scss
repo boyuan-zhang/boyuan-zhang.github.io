@@ -23,6 +23,12 @@ $max-content-width: {{ site.max_width }};
 .pdf-center {
   display: flex;
   justify-content: center;
+  align-items: center;
   margin-top: 20px;
-  margin-left: -50px; /* Adjust this value as needed */
+}
+
+.pdf-center object {
+  width: 100%;
+  max-width: 900px;
+  height: 1000px;
 }
