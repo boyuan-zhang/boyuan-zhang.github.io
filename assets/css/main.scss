@@ -25,10 +25,15 @@ $max-content-width: {{ site.max_width }};
   justify-content: center;
   align-items: center;
   margin-top: 20px;
+  /* break out of the narrow container to use full viewport width */
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .pdf-center object {
-  width: 100%;
-  max-width: 900px;
-  height: 1000px;
+  width: 90vw;
+  max-width: 1200px;
+  height: 85vh;
 }
