@@ -15,9 +15,10 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
 Welcome!
 
-I am an Economist on the Supply Chain Optimization Technologies (`<a href="https://www.amazon.science/tag/supply-chain-optimization-technologies">`SCOT`</a>`) team at Amazon, where I develop state-of-the-art forecasting models for Amazon's Global Fulfillment network and conduct causal inference studies to inform strategic business decisions.
+I am an Economist on the Supply Chain Optimization Technologies (<a href="https://www.amazon.science/tag/supply-chain-optimization-technologies">SCOT</a>) team at Amazon, where I develop state-of-the-art forecasting models for Amazon's Global Fulfillment network and conduct causal inference studies to inform strategic business decisions.
 
 My research advances econometric methodology at the intersection of time series forecasting, machine learning, and foundation models, with applications spanning macroeconomic policy, climate science, and supply chain operations.
 
@@ -25,11 +26,11 @@ My research advances econometric methodology at the intersection of time series 
 
 <!-- My research focuses on grouped heterogeneity in panel data models. I’m particularly interested in bringing prior knowledge of the latent group structure into the models. It is an exciting topic that blends panel estimation with semi-supervised learning and social network models. [(Extended abstract)]({{ site.url }}/assets/pdf/CBG_latest_ext_abs.pdf) -->
 
-For further details, please see my [CV]({{ site.url }}/cv.pdf), [resume]({{ site.url }}/resume.pdf), and [research statement]({{ site.url }}/assets/statement/research_statement.pdf).
+For further details, please see my [CV]({{ site.url }}/cv.pdf), [research statement]({{ site.url }}/assets/statement/research_statement.pdf), and [professional resume]({{ site.url }}/resume.pdf).
 
 <!-- For more infomation, please see my <a href="{{ site.cv_link | relative_url }}">CV</a> and an [overview]({{ site.url }}/assets/statement/research_statement.pdf) of my research. -->
 
-Email: `<font color="DodgerBlue">`zhang.boyuan (at) hotmail.com`</font>`
+Email: <font color="DodgerBlue">zhang.boyuan (at) hotmail.com</font>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
