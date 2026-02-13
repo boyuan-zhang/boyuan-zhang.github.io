@@ -49,4 +49,4 @@ jobs:
         with:
           fail: true
           # shared settings live in lychee.toml; this job only checks local generated site links
-          args: --config lychee.toml --offline --root-dir '${{ github.workspace }}/_site' --remap '_site(/?.*)/assets/(.*) _site/assets/$2' '_site/**/*.html'
+          args: --config lychee.toml --offline --verbose --no-progress --remap '_site(/?.*)/assets/(.*) _site/assets/$2' '_site/**/*.html'

@@ -1,7 +1,6 @@
-verbose = "info"
-no_progress = true
-
 exclude_path = [
   "README.md",
   "_pages/404.md",
+  "_pages/cv.md",
+  "_pages/resume.md",
 ]

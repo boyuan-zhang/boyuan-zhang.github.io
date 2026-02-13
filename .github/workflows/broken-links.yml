@@ -15,4 +15,4 @@ jobs:
         with:
           fail: true
           # shared settings live in lychee.toml
-          args: --config lychee.toml --root-dir '${{ github.workspace }}' './**/*.md' './**/*.html'
+          args: --config lychee.toml --verbose --no-progress './**/*.md' './**/*.html'

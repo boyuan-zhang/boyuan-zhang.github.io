@@ -10,5 +10,5 @@ toc:
 ---
 
 <div class="pdf-center"> <!-- Use a class for styling -->
-  <object data="/cv.pdf" type='application/pdf'></object>
+  <object data="{{ '/cv.pdf' | relative_url }}" type='application/pdf'></object>
 </div>
