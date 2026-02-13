@@ -1,0 +1,7 @@
+verbose = "info"
+no_progress = true
+
+exclude_path = [
+  "README.md",
+  "_pages/404.md",
+]
